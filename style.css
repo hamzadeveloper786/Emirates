@@ -1,0 +1,168 @@
+body{
+    min-width: 1024px;
+    max-width: 1024px;
+    background-color:rgba(246, 246, 246, 2);
+}
+/*Navigation*/
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border: 3px solid;
+    background-color: #343434;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-left: 10em;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    padding: 0em;
+}
+.navigation{
+    padding-left: 1em;
+}
+img.emirates{
+    width: 9em;
+    position: absolute;
+    margin-left: 2em;
+}
+img.world{
+    vertical-align: middle;
+    margin-left: 8em;
+    width: 1.8em;
+    vertical-align: middle;
+}
+.pk{
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 0.5em;
+}
+.search{
+    width: 1.8em;
+    vertical-align: middle;
+    margin-left: 2em;
+}
+.profile{
+    width: 1.8em;
+    vertical-align: middle;
+    margin-left: 2em;
+}
+a.Now{
+    color: white;
+    text-decoration: none;
+}
+/*paragraph*/
+.stay{
+    margin-top: 10em;
+    font-size: 1.3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 6em;
+}
+h1{
+    font-size: 2.6em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 3em;
+    line-height: 0em;
+}
+/*Booking Button*/
+.book{
+    font-size: 1.3em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 22.4em;
+}
+#now{
+    font-size: 1.3em;
+    margin-left: 20em;
+    border: 3px solid red;
+    border-radius: 6px;
+    padding: 0.5em;
+    background-color: red;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/*Covid*/
+.worl{
+    width: 1.8em;
+    vertical-align: middle;
+}
+.covid{
+    margin: 0.9em;
+    border: 1px solid rgb(237, 237, 122);
+    background-color: rgb(237, 237, 122);
+    color: cornflowerblue;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a.visit{
+    border: 1p solid black;
+text-decoration: none;
+color: black;
+}
+button#covid-{
+    margin-left: 8em;
+}
+/*Airport*/
+input#da{
+    margin-left: 1em;
+    width: 14em;
+    padding: 1em;
+}
+input#aa{
+    margin-left: 1em;
+    width: 14em;
+    padding: 1em;
+}
+/*Continue button*/
+button#count{
+    margin-left: 1em;
+    width: 14em;
+    padding: 1em;
+    background-color: red;
+    border: 1px solid red;
+}
+a.cont{
+    color: white;
+    text-decoration: none;
+}
+/*how to book*/
+.htb{
+    margin-top: 1.5em;
+    background-color:rgb(255, 255, 255);
+    border: 3px solid rgb(255, 255, 255);
+}
+.hb{
+    margin-left: 0.8em;
+    font-family: cursive;
+}
+.how{
+    margin-left: 0.8em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div.emirat{
+    background-color: black;
+    color: white;
+    padding: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div.emiba{
+    color: white;
+    background-color: #343434;
+}
+h3{
+    margin-left: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span{
+    margin-left: 1em;
+    color: rgba(246, 246, 246, 2);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.emg{
+    margin-left: 1em;
+}
+img.footer{
+    margin-left: 38em;
+}
